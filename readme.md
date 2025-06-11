@@ -1,6 +1,6 @@
 # AWS NodeJS ReactJS Blog Microservices
 
-NodeJS API microservices and ReactJS 19 microservice using the AWS Serverless Framework.
+NodeJS API microservices and ReactJS 19 microservice using the AWS Serverless Framework. This project includes a custom event bus implementation.
 
 * [Using Postman?](#postman)
 
