@@ -19,7 +19,7 @@ export default function PostCreate() {
     <div>
       <form onSubmit={onSubmit}>
         <div className="form-group">
-          <label htmlFor="">Title</label>
+          <label>Title</label>
           <input
             type="text"
             className="form-control"
