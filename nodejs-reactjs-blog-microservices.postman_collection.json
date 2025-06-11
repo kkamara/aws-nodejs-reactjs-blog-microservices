@@ -1,7 +1,7 @@
 {
 	"info": {
 		"_postman_id": "a20a4c0b-e729-4bd4-bd9d-e9daf1a775e1",
-		"name": "aws-nodejs-reactjs-blog-microservices",
+		"name": "nodejs-reactjs-blog-microservices",
 		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
 		"_exporter_id": "17125932"
 	},

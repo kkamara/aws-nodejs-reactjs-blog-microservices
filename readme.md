@@ -1,6 +1,6 @@
-# AWS NodeJS ReactJS Blog Microservices
+# NodeJS ReactJS Blog Microservices
 
-NodeJS API microservices and ReactJS 19 microservice using the AWS Serverless Framework. This project includes a custom event bus implementation.
+NodeJS API microservices and ReactJS 19 microservice. This project includes a custom event bus implementation.
 
 * [Using Postman?](#postman)
 
@@ -13,7 +13,7 @@ NodeJS API microservices and ReactJS 19 microservice using the AWS Serverless Fr
 
 [Get Postman HTTP client](https://www.postman.com).
 
-[Postman API Collection for Blog](https://github.com/kkamara/aws-nodejs-reactjs-blog-microservices/blob/main/aws-nodejs-reactjs-blog-microservices.postman_collection.json).
+[Postman API Collection for Blog](https://github.com/kkamara/nodejs-reactjs-blog-microservices/blob/main/nodejs-reactjs-blog-microservices.postman_collection.json).
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
