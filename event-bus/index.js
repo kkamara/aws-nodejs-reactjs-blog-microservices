@@ -19,6 +19,10 @@ app.post("/events", (req, res) => {
     "http://localhost:4002/events",
     event,
   );
+  axios.post(
+    "http://localhost:4003/events",
+    event,
+  );
 
   res.send({ status: "OK", });
 });
