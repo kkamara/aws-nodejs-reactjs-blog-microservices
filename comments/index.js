@@ -19,7 +19,11 @@ app.post("/posts/:id/comments", async (req, res) => {
 
   const comments = commentsByPostId[req.params.id] || [];
 
-  comments.push({ id: commentId, content, });
+  comments.push({
+    id: commentId,
+    status: "pending",
+    content,
+  });
 
   commentsByPostId[req.params.id] = comments;
 
@@ -30,6 +34,7 @@ app.post("/posts/:id/comments", async (req, res) => {
       data: {
         postId: req.params.id,
         id: commentId,
+        status: "pending",
         content,
       }
     }
