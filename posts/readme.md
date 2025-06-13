@@ -15,5 +15,5 @@
 ## Usage
 
 ```bash
-  docker run kkamara/posts
+  docker run -p 4000:4000 kkamara/posts
 ```

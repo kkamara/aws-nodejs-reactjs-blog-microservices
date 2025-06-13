@@ -15,5 +15,5 @@
 ## Usage
 
 ```bash
-  docker run kkamara/comments
+  docker run -p 4001:4001 kkamara/comments
 ```

@@ -15,5 +15,5 @@
 ## Usage
 
 ```bash
-  docker run kkamara/client
+  docker run -p 3000:3000 kkamara/client
 ```

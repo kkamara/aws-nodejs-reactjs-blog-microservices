@@ -15,5 +15,5 @@
 ## Usage
 
 ```bash
-  docker run kkamara/query
+  docker run -p 4002:4002 kkamara/query
 ```
