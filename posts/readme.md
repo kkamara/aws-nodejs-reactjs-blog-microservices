@@ -9,11 +9,11 @@
 ## Installation
 
 ```bash
-  docker build -t posts .
+  docker build -t kkamara/posts .
 ```
 
 ## Usage
 
 ```bash
-  docker run posts
+  docker run kkamara/posts
 ```
