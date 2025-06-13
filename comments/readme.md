@@ -1,4 +1,4 @@
-## client
+## comments
 
 
 
@@ -9,11 +9,11 @@
 ## Installation
 
 ```bash
-  docker build -t kkamara/client .
+  docker build -t kkamara/comments .
 ```
 
 ## Usage
 
 ```bash
-  docker run kkamara/client
+  docker run kkamara/comments
 ```

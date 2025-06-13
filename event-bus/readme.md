@@ -1,4 +1,4 @@
-## client
+## event-bus
 
 
 
@@ -9,11 +9,11 @@
 ## Installation
 
 ```bash
-  docker build -t kkamara/client .
+  docker build -t kkamara/event-bus .
 ```
 
 ## Usage
 
 ```bash
-  docker run kkamara/client
+  docker run kkamara/event-bus
 ```

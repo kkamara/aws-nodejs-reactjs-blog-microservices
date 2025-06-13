@@ -1,4 +1,4 @@
-## client
+## query
 
 
 
@@ -9,11 +9,11 @@
 ## Installation
 
 ```bash
-  docker build -t kkamara/client .
+  docker build -t kkamara/query .
 ```
 
 ## Usage
 
 ```bash
-  docker run kkamara/client
+  docker run kkamara/query
 ```
